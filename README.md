@@ -1,6 +1,5 @@
 # Movie App (Frontend)
 
-### Made with ❤️ by Sushant Sawant and `create react app`
 ## Technologies used
 
 * Node
