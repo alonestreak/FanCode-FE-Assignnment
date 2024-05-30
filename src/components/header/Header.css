@@ -1,0 +1,16 @@
+
+.logo{
+    color: red;
+    font-family: fantasy;
+}
+
+.logo-large{
+    font-size: 2vw;
+}
+
+.logo-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
