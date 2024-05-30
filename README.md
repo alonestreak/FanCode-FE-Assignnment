@@ -23,4 +23,9 @@
 3. Search Bar implemented with debouncing
 4. Infinite Scroll upwards and downwards with implementation from the scratch
 5. Only shows movies till the current year
-6. Starts with the year 2012 (primary_release_year)
+6. Starts with the year 2012 
+7. Used typescript for the assignment
+
+## Not Covered
+1. Smooth Scrolling 
+2. Not used React Native
